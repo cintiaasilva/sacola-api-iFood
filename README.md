@@ -12,7 +12,6 @@ Está API contém as funcionalidades:
 
 ###### *Este projeto está documentado pelo Swagger  UI.*
 
-​	
-
-
-
+<p align="center">
+<img src="https://github.com/cintiaasilva/sacola-api-iFood/blob/main/toReadme/Swagger.png"
+</p>
